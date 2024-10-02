@@ -39,13 +39,13 @@ You can obtain .har files using a variety of tools:
 
 Graph Layouts:
 
-	• dot: Hierarchical layout (default for directional graphs).
-	•	neato: Force-directed layout for general graphs.
-	•	twopi: Radial layout with concentric circles.
-	•	circo: Circular layout, good for cyclic graphs.
-	•	fdp: Force-directed layout optimized for larger graphs.
-	•	sfdp: Scalable version of fdp for very large graphs.
-	•	patchwork: Grid/tiling layout.
-	•	osage: Clustered layout for grouped nodes.
+	dot: Hierarchical layout (default for directional graphs).
+	neato: Force-directed layout for general graphs.
+	twopi: Radial layout with concentric circles.
+	circo: Circular layout, good for cyclic graphs.
+	fdp: Force-directed layout optimized for larger graphs.
+	sfdp: Scalable version of fdp for very large graphs.
+	patchwork: Grid/tiling layout.
+	osage: Clustered layout for grouped nodes.
 
 **WebMapBandit is ideal for understanding the structure and flow of web requests, making it useful for security analysis and performance optimization.**
