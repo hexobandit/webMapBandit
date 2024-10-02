@@ -4,9 +4,9 @@ WebMapBandit is a tool that maps GET, POST, and other HTTP requests made by a we
 ### Key Features:
 
 - HAR File Parsing: Extracts URLs and HTTP methods from .har files.
-- Graph Creation: Builds a directed graph where nodes represent URLs and edges represent the HTTP methods.
+- Builds a directed graph where nodes represent URLs and edges represent the HTTP methods.
 - Customizable URL Depth: Allows for limiting the depth of the URL path to focus on specific levels of the request hierarchy.
-- Graph Layout Options: Supports various layout algorithms for visualizing the graph (e.g., dot, neato, twopi, circo).
+- Graph Layout Options: Supports various layout algorithms for visualizing the graph.
 
 ### Usage:
 
