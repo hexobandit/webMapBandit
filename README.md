@@ -37,7 +37,7 @@ You can obtain .har files using a variety of tools:
 	•	Postman: You can export the request history as a .har file from the Postman app.
 	•	Fiddler: Capture HTTP/HTTPS traffic and export it as .har using Fiddler.
 
-Graph Layouts:
+### Graph Layouts:
 
 	dot: Hierarchical layout (default for directional graphs).
 	neato: Force-directed layout for general graphs.
