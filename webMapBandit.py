@@ -18,7 +18,7 @@ graph_layout = "neato" # 'dot' neato, twopi, circo, fdp, sfdp, patchwork, osage
 import json
 
 def parse_har_file(file_path):
-    with open(file_path, 'r') as file:
+    with open(file_path, 'r', encoding='utf-8') as file:
         har_data = json.load(file)
 
     # Get the starting point from the 'pages' section
