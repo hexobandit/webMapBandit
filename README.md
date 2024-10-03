@@ -10,11 +10,15 @@ WebMapBandit is a tool that maps GET, POST, and other HTTP requests made by a we
 
 ### Usage:
 
-1. Modify Configurations:
+1. Install dependencies: ```pip install -r requirements.txt```
+
+2. Modify Configurations:
 
 <img width="890" alt="image" src="https://github.com/user-attachments/assets/2414ea87-100f-46fc-8d73-cd5a2233e335">
 
-2. Run the script:
+3. Upload the ```.har``` file.
+
+4. Run the script:
 
 <img width="1260" alt="image" src="https://github.com/user-attachments/assets/c6bbcfcc-7f39-43b5-b6ac-39b0c9c93806">
 
