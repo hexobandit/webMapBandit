@@ -49,3 +49,7 @@ You can obtain .har files using a variety of tools:
 	osage: Clustered layout for grouped nodes.
 
 **WebMapBandit is ideal for understanding the structure and flow of web requests, making it useful for security analysis and performance optimization.**
+
+### Troubleshooting
+
+Working with ```venv``` seems to cause issues with ```pygraphviz```, so if you don`t want to lose your mind, just dont use the virtual env.  
